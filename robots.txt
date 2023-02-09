@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sense-docs.webizen.au/sitemap/sitemap-index.xml
+Host: https://sense-docs.webizen.au
