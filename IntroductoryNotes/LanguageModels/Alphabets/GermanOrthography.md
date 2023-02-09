@@ -1,0 +1,3 @@
+**German orthography** is the [orthography](https://en.wikipedia.org/wiki/Orthography "Orthography") used in [writing](https://en.wikipedia.org/wiki/Writing "Writing") the [German language](https://en.wikipedia.org/wiki/German_language "German language"), which is largely [phonemic](https://en.wikipedia.org/wiki/Phonemic_orthography "Phonemic orthography"). However, it shows many instances of spellings that are historic or analogous to other spellings rather than phonemic. The pronunciation of almost every word can be derived from its spelling once the spelling rules are known, but the opposite is not generally the case.
+
+Source: https://en.wikipedia.org/wiki/German_orthography#Alphabet

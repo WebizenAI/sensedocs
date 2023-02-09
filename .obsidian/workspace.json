@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "c6f8e5151de5e7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "badb117f10288ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "723fd4777dbe8ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "434f03186e2b083d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroductoryNotes/LanguageModels/StemLanguageModels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0803ed34fd68dc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f0b47a8daf4307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181c22b7bb76e113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a210a21e61fca87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroductoryNotes/LanguageModels/LargeLanguageModels/FrameNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b79180f536974d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroductoryNotes/LanguageModels/LargeLanguageModels/WordNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdf8af65c84c474f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05f081f9fbe1ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babd22ffc94d5135",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ef892de9c5f368b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "values",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51ec25c2b5ae79e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "2371abb59f8fed94",
+    "type": "split",
+    "children": [
+      {
+        "id": "e778cbe77b2dca81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c87fb059057fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0d62bd7b3fd1556",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6af2e9abaa646a69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b15b43b1dfc456dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "181c22b7bb76e113",
+  "lastOpenFiles": [
+    "IntroductoryNotes.md",
+    "README.md",
+    "IntroductoryNotes/FunctionalDesigns/MultiMediaQueries.md",
+    "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+    "IntroductoryNotes/FunctionalDesigns/OpenCV.md",
+    "IntroductoryNotes/LanguageModels/StemLanguageModels.md",
+    "IntroductoryNotes/LanguageModels.md",
+    "IntroductoryNotes/LanguageModels/WordsAPI.md",
+    "IntroductoryNotes/LanguageModels/LDC.md",
+    "IntroductoryNotes/LanguageModels/English.md"
+  ]
+}

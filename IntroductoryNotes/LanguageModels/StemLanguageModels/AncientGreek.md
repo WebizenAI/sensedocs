@@ -1,0 +1,5 @@
+# Ancient Greek
+
+**Ancient Greek** includes the forms of the [Greek language](https://en.wikipedia.org/wiki/Greek_language "Greek language") used in [ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece "Ancient Greece") and the [ancient world](https://en.wikipedia.org/wiki/Classical_antiquity "Classical antiquity") from around 1500 BC to 300 BC. It is often roughly divided into the following periods: [Mycenaean Greek](https://en.wikipedia.org/wiki/Mycenaean_Greek "Mycenaean Greek") (c. 1400–1200 BC), [Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages "Greek Dark Ages") (c. 1200–800 BC), the [Archaic](https://en.wikipedia.org/wiki/Archaic_Greece "Archaic Greece") period (c. 800–500 BC), and the [Classical](https://en.wikipedia.org/wiki/Classical_Greece "Classical Greece") period (c. 500–300 BC).[1](https://en.wikipedia.org/wiki/Ancient_Greek#cite_note-1)
+
+Source: https://en.wikipedia.org/wiki/Ancient_Greek

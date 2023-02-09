@@ -1,0 +1,5 @@
+### Image Processing
+
+The Information structures should also support parsing of images, in particular heraldry.  The common-place use and comprehension of written language has only evolved in recent centuries. Prior to the widespread education of persons to teach all persons how to write and read the English language, a lot of information relating to language is represented in other forms. Heraldry is an example of a language format that has defined meanings associated with time, place and people.
+
+Character processing would also be helpful.  There are some known training models to help with this endeavour, however it is not presently considered to be a priority; notwithstanding, the desire to ensure the system can be extended to support the addition of new information that can then be processed as part of the broader modelling technique.
