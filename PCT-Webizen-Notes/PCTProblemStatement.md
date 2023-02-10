@@ -105,9 +105,9 @@ or personal responsibility, as noted by Chomsky; as is otherwise illustrated in 
 
 The permissive commons ecosystem solutions have always been designed for the purpose of being deployed into a particular type of ecosystem, which hasn't been supported via the historical lens of a knowledge banking ecosystem, but has now led to the works on [[SocialFactors/CommercialModels/Webizen]].  
 
-Regardless of whether or not anyone uses the webizen systems; this work on permissive commons is intended to be about the production of technology for the public good, and thereby support the fundamental purpose of the [[PeaceInfrastructureProject]].
+Regardless of whether or not anyone uses the webizen systems; this work on permissive commons is intended to be about the production of technology for the public good, and thereby support the fundamental purpose of the [[PCT-Webizen-Notes/PeaceInfrastructureProject]].
 
-There is a risk that i'll conflate or integrate aspects that should be related to webizen or those that should be related to Web Civics and therein, the broader [[PeaceInfrastructureProject]] objectives.  
+There is a risk that i'll conflate or integrate aspects that should be related to webizen or those that should be related to Web Civics and therein, the broader [[PCT-Webizen-Notes/PeaceInfrastructureProject]] objectives.  
 
 ## Financing - biosphere & socioeconomic relations
 
@@ -121,7 +121,7 @@ As with many of the modules of work, the concepts relating to these things are o
 ![[Answers_meme.jpg]]
 *Original Source/author unknown*
 
-It has been common to see people get involved seeking to quickly 'know it all', in ways that have ended-up with substandard outcomes; particularly where it comes to human rights and related use-cases / constituents of specifications, that are more specifically support natural persons (ie: consumers ); which is now moreover denoted as [[PeaceInfrastructureProject]] related works; although, instrumental / integral and considered to be unable to be delivered without producing [[SocialFactors/CommercialModels/Webizen]].
+It has been common to see people get involved seeking to quickly 'know it all', in ways that have ended-up with substandard outcomes; particularly where it comes to human rights and related use-cases / constituents of specifications, that are more specifically support natural persons (ie: consumers ); which is now moreover denoted as [[PCT-Webizen-Notes/PeaceInfrastructureProject]] related works; although, instrumental / integral and considered to be unable to be delivered without producing [[SocialFactors/CommercialModels/Webizen]].
 
 One possible method; is to charge enterprise users for the use of materials produced, via transactional payments; until such a time as the work-effort required to produce that work has been compensated - as a means to support [[EndingDigitalSlavery]] and support [[FairWorkProtocols]], whilst also enabling the use of these systems by human beings - freely (no-charge).
 
@@ -135,7 +135,7 @@ Linked to this problem; is also the suggestion that the use of internet is 'free
 
 The challenges becomes how to form a moral approach to addressing this problem, and in many ways - it leads me to want to think about doing it only for webizen so that the works don't get exploited and perverted by professional bad actors - of which there are many; and sadly also, many of them have become extremely succesful at it - in a toxic, competitive marketplace - so, its a very complex series of related issues...  But,
 
-Perhaps there could be an option baked into the systems that helps to address modalities about how systems are used?  or some other better method - which is something to be defined, and ideally not 'centrally' - the fundamental arbrar of circumstnaces involving wrong-doing is courts of law; this is the perscribed method to support [[TheValuesProject]] and its role with both the  [[PeaceInfrastructureProject]] and [[Webizen]].  
+Perhaps there could be an option baked into the systems that helps to address modalities about how systems are used?  or some other better method - which is something to be defined, and ideally not 'centrally' - the fundamental arbrar of circumstnaces involving wrong-doing is courts of law; this is the perscribed method to support [[TheValuesProject]] and its role with both the  [[PCT-Webizen-Notes/PeaceInfrastructureProject]] and [[Webizen]].  
 
 Nonetheless, the systems are indeed intended to radically improve the means for evidence to be easily provided to a court of law for consideration via the perscribed method, as does relate broadly to human rights related instruments, etc.  
 
@@ -143,5 +143,5 @@ Nonetheless, the systems are indeed intended to radically improve the means for 
 
 There has been a widespread uprising of a concept called "Universal Basic Income" or UBI; which has thereafter sought to engender social-security related policies globally, and i've had various concerns about being employed to support digital slavery rather than [[EndingDigitalSlavery]], which in-turn gives rise to various problems relating to the ramifications upon tax (unpaid persons don't pay tax, even if they're provided UBI).  Yet perhaps this concept can be refactored to produce a solution that defines the [[MinimumWages]] for persons doing useful work, which might then be rationalised by cost-of-living or pricing power parity ecosystems; for the particular purpose, of seeking to ensure persons doing work for the betterment of humanity in a manner that has a usefully positive effect, are not required to invalidate their own humanity for having done so; as is seemingly the expectation of all to many (including governments) today.  So this might be termed 'universal minimum wages' or something? 
 
-More work needs to be done; and i'm unsure how this relates to the permissive commons ecosystems - yet; other than making a note of the importance of addressing these sorts of issues as is otherwise required for both the [[PeaceInfrastructureProject]] and [[Webizen]] use-cases.
+More work needs to be done; and i'm unsure how this relates to the permissive commons ecosystems - yet; other than making a note of the importance of addressing these sorts of issues as is otherwise required for both the [[PCT-Webizen-Notes/PeaceInfrastructureProject]] and [[Webizen]] use-cases.
 

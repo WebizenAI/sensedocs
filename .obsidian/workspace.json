@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "IntroductoryNotes/notes/DraftThoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,55 +44,54 @@
             }
           },
           {
-            "id": "98f0b47a8daf4307",
+            "id": "a5a5c02bcc5ddec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+                "file": "IntroductoryNotes/FunctionalDesigns/MediaProcessing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "181c22b7bb76e113",
+            "id": "358c5e6cb20dd41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "IntroductoryNotes/FunctionalDesigns/Platform/MultiMediaQueries.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a210a21e61fca87",
+            "id": "b7038212a80f4919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/LanguageModels/LargeLanguageModels/FrameNet.md",
+                "file": "IntroductoryNotes/FunctionalDesigns/Platform/spatiotemporal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7b79180f536974d",
+            "id": "a351a6aabbf73f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/LanguageModels/LargeLanguageModels/WordNet.md",
+                "file": "IntroductoryNotes/LanguageModels/LargeLanguageModels/Other.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "values",
+                "query": "The Artificial mind",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "IntroductoryNotes/notes/DraftThoughts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "IntroductoryNotes/notes/DraftThoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "IntroductoryNotes/notes/DraftThoughts.md"
               }
             }
           }
@@ -220,17 +219,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "181c22b7bb76e113",
+  "active": "723fd4777dbe8ad0",
   "lastOpenFiles": [
-    "IntroductoryNotes.md",
+    "IntroductoryNotes/notes/InterestingTechNotes.md",
+    "IntroductoryNotes/notes/DraftThoughts.md",
     "README.md",
-    "IntroductoryNotes/FunctionalDesigns/MultiMediaQueries.md",
-    "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+    "IntroductoryNotes/LanguageModels/LargeLanguageModels/Other.md",
     "IntroductoryNotes/FunctionalDesigns/OpenCV.md",
-    "IntroductoryNotes/LanguageModels/StemLanguageModels.md",
-    "IntroductoryNotes/LanguageModels.md",
-    "IntroductoryNotes/LanguageModels/WordsAPI.md",
-    "IntroductoryNotes/LanguageModels/LDC.md",
-    "IntroductoryNotes/LanguageModels/English.md"
+    "IntroductoryNotes/FunctionalDesigns/Platform/spatiotemporal.md",
+    "IntroductoryNotes/FunctionalDesigns/Platform/MultiMediaQueries.md",
+    "IntroductoryNotes/FunctionalDesigns/MediaProcessing.md",
+    "IntroductoryNotes/FunctionalDesigns/decentralisation.md",
+    "WebScience/PeaceInfrastructureProject.md"
   ]
 }

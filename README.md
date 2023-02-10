@@ -2,6 +2,14 @@
 
 Firstly - this is just initialised, there's a bunch of old docs; and not much in-terms of the new stuff that the docs were set-up to provide.  
 
+NOTE: i've also set-up [Docs.HumanCentricAI.org](http://docs.humancentricai.org/) which is in-turn set-up with a Discord 
+
+Group: Here's [The Link](https://discord.gg/aRTzYX9QY4) 
+
+Sense is about producing a information networking fabric that is used to support a complex language model, that's in-turn employed for various foundational applications.  
+
+The objective is to seek to ensure that when a natural agent (person) is engaged in an activity via voice or text (reading / writing materials); that the content is able to be parsed using complex natural language processing, but that it does not need to be shared with any other agent in-order to provide the facility to do so.  In-turn, the implication becomes a need to figure out how to define the broader Permissive Commons Systems; of which, this becomes a foundational part of it.   The 'sense' work, is an instrumental foundation for HumanCentricAI, whether it be employed via Webizen like systems or via alternatives.
+
 Generally speaking;
 
 1. [[IntroductoryNotes]] - provides basic introductory information that relates to the sense project.   This is the starting-point for the work on sense.  
@@ -46,9 +54,9 @@ Source: [WikiPedia](https://en.wikipedia.org/wiki/Copyright_Clause)
 
 3rd party works are provided via whatever license applies to those works.  
 
-The works done by me are sought to be licensed via a methodology that's basically about supporting human rights.  This in-turn requires a means to support [[LicensingFrameworks]] (supported by the [[TheValuesProject]] and related [[WebScience/PeaceInfrastructureProject/SafetyProtocols/ValuesCredentials]] ); to both [[EndingDigitalSlavery]] whilst also (consequentially) empowering means to end-up providing licensing in a manner that has an array of express purposes, including but not limited to protecting [[FreedomofThought]] without degrading the good purpose of any such forms of agreements.  
+The works done by me are sought to be licensed via a methodology that's basically about supporting human rights.  This in-turn requires a means to support [[LicensingFrameworks]] (supported by the [[ValuesProject]] and related [[ValuesCredentials]] ); to both [[EndingDigitalSlavery]] whilst also (consequentially) empowering means to end-up providing licensing in a manner that has an array of express purposes, including but not limited to protecting [[FreedomofThought]] without degrading the good purpose of any such forms of agreements.  
 
-Until this is better define / resolved My Work is not licensed for any commercial purposes; and, all rights are reserved.  This is not intended to be contrary to the interests of [[HumanCentricDigitalIdentity]] or in-turn also [[WebScience/PeaceInfrastructureProject/SafetyProtocols/HumanCentricAI]] rather; that i note, i've been subjected to alot of very hostile (bad) actors, often they've suggested they've been 'doing it all already' - yet here we are, some 22+ years down the track and nope, the means to support the human rights of ordinary persons to make use of their information to support their rights, to support peace; its not been delivered by any such persons anywhere on earth.
+Until this is better define / resolved My Work is not licensed for any commercial purposes; and, all rights are reserved.  This is not intended to be contrary to the interests of [[HumanCentricDigitalIdentity]] or in-turn also [[HumanCentricAI]] rather; that i note, i've been subjected to alot of very hostile (bad) actors, often they've suggested they've been 'doing it all already' - yet here we are, some 22+ years down the track and nope, the means to support the human rights of ordinary persons to make use of their information to support their rights, to support peace; its not been delivered by any such persons anywhere on earth.
 
 Hopefully, an option for those who seek something like this, may be brought about; but it won't be made able to work properly (ie: #RealityCheckTech ) unless its done in a manner that addresses the sorts of issues described by the [[SafetyProtocols]] notes, etc..
 

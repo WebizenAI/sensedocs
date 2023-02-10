@@ -27,3 +27,5 @@ We will want to form a decentralised pipeline for processing image data, particu
 The Permissive commons systems overtime are intended to form far more sophistocated and advanced employment of these models  / modals; in ways that are intended to support human dignity, which in-turn requires rules, etc. 
 
 Whilst the webizen ecosystem defines a set of rules via 'safety protocols', they're not clearly defined in an implementation yet; as such, caution should be employed about this process, whilst also seeking to intentionally produce software that has the express purpose of being deployed in a manner that is designed to support those safety protocols.
+
+

@@ -1,6 +1,6 @@
 # Safety Considerations
 
-The intended purpose of these works is to produce technology that supportively elevates our humanitarian capacity for advancement; particularly as it relates to the [[PeaceInfrastructureProject]] related considerations.  As such, i've seperated this permissive commons technology documentation work from the [[Webizen]] documentation works, with the view of seeking to ensure that the approach; does not require the use of webizen specifically.
+The intended purpose of these works is to produce technology that supportively elevates our humanitarian capacity for advancement; particularly as it relates to the [[PCT-Webizen-Notes/PeaceInfrastructureProject]] related considerations.  As such, i've seperated this permissive commons technology documentation work from the [[Webizen]] documentation works, with the view of seeking to ensure that the approach; does not require the use of webizen specifically.
 
 Yet, 
 

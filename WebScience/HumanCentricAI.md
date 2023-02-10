@@ -1,5 +1,5 @@
 
-One of the essential objectives is to get to the point where the [[WebScience/HumanCentricAI/ValuesProject/ValuesCredentials]] 
+One of the essential objectives is to get to the point where the [[ValuesCredentials]] are able to be deployed.
 
 # Human-Centric AI Ethics
 
@@ -27,7 +27,7 @@ So. 
 
 ### Defining 'Human-Centric Ai Ethics'
 
-The implication for defining “Human Centric Ai Ethics’ relates to the [[WebScience/InformationTheory/Centricity]] considerations in addition to broader[[WebScience]] considerations; when modelling [[ArtificialMinds]] as to support ‘reality check tech’. Human Centric AI is for those who want to build solutions that improve our capacity to sort out bad actors via courts; via the production of solutions that provide ‘democratisation’ of electronic evidence. This in-turn supports foundational requirements considered necessary in-order to support the ability to do real-world ‘ai ethics’ in ways that was previously impossible as a consequence of designs. 
+The implication for defining “Human Centric Ai Ethics’ relates to the [[Centricity]] considerations in addition to broader[[WebScience]] considerations; when modelling [[ArtificialMinds]] as to support ‘reality check tech’. Human Centric AI is for those who want to build solutions that improve our capacity to sort out bad actors via courts; via the production of solutions that provide ‘democratisation’ of electronic evidence. This in-turn supports foundational requirements considered necessary in-order to support the ability to do real-world ‘ai ethics’ in ways that was previously impossible as a consequence of designs. 
 
 Webizen systems are different to modern global cloud 'Mainframes', that are built to support the requirements of rulers - not rights, human rights or other words; has nothing to do with ‘ethics’ in a world, that is said to be about building peace infrastructure.  
 
