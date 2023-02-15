@@ -104,7 +104,42 @@ My thinking is generally; leading me to consider, various older examples relatin
 
 What i'm thinking about, is how to form what is in-effect a distributed computational network that is cooperatively operating, with strong 'Human Centric' controls, to support, a training model that uses chunks and/or sharding, and/or a multiplexer like approach to produce training model components; that are in-turn designed to render support for the optimisation and user-experience related issues; not unlike the sorts of problems that needed to be addressed in the early media / game encoding and streaming platforms.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AWozmtOlTbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+(next day)
 
+SO, i'm festering on how to describe the concepts associated with the; various complex stuff.  So, there needs to be a private agent.  
 
+https://github.com/oxigraph/oxigraph is written in rust.  
+
+There's various notes about the benefits of rust for memory-safe code...  
+https://asecuritysite.com/rust
+
+but that's essentially at runtime. then the other implications is that part of what is required here, is the process of 'model construction', associated to the production of ontology; rather than more simply or perhaps as is better worded; procedurally, the consumption of it. 
+
+Herein; still working on the 'optimisation' problems; i guess...  
+
+Therein also is the verifiability of the information such that it may be considered a form of electronic evidence rather than merely something of far less legal worth.
+
+ATM: information and/or records about persons is stored in large 'silos', which have a different 'trust framework' associated to it; whilst the information stored in records may have the capacity to be changed in ways that are otherwise not reasonably able to be done by end-users (consumers) these sorts of qualities are then in-turn lost if the information is extracted from those platforms into a different system, that then in-turn has different properties / characteristics, etc. 
+
+One of the greater problems; relates to the tamper evidence or ability to reliably infer the content has not changed from the time-date stamp associated to the content artifact (unless the provider has changed the content); examples of where this considation applies include email and various social media systems - also document systems, etc.  
+
+https://en.wikipedia.org/wiki/Global_workspace_theory
+https://en.wikipedia.org/wiki/Integrated_information_theory
+https://en.wikipedia.org/wiki/Attention_schema_theory
+https://plato.stanford.edu/entries/private-language/
+https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
+https://nautil.us/roger-penrose-on-why-consciousness-does-not-compute-236591/
+
+### Informatics theory
+
+There's a standard developing called RDF Star.
+https://w3c.github.io/rdf-star/cg-spec/editors_draft.html
+
+A few years ago, i made a few notes about the concept of 'quins': https://www.w3.org/Search/Mail/Public/search?keywords=quins 
+
+The core syntatic approach associates with a triple or quad; which is then extended via star, but there's two other factors at least - the first is signatures (decentralised validation schema of some sort); the second is temporal.  Overall the question that has an unknown answer, is about the dimensionality of the native structure, which thereafter needs to be mapped to RDF-star / Sparql-star compatible solutions (ideally also, convertable to other formats). 
+
+NOTE:  write a call to action to seek AI specialists to write about the importance of Human Centric AI.  
+
+Also note: need to define - What is Human Centric AI? 
 

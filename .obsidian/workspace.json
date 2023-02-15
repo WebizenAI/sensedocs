@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "4fe585520ff11212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VocabularyModelling/LanguageModels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef76c54a2380f2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ContextModelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98c4b0c253c4aef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ContextModelling/InitialConcepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "434f03186e2b083d",
             "type": "leaf",
             "state": {
@@ -37,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/FunctionalDesigns/OpenCV/OCR.md",
+                "file": "FunctionalDesigns/OpenCV/OCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/FunctionalDesigns/MediaProcessing.md",
+                "file": "FunctionalDesigns/MediaProcessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/FunctionalDesigns/Platform/MultiMediaQueries.md",
+                "file": "FunctionalDesigns/Platform/MultiMediaQueries.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntroductoryNotes/FunctionalDesigns/Platform/spatiotemporal.md",
+                "file": "FunctionalDesigns/Platform/spatiotemporal.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 299.5
   },
   "right": {
     "id": "2371abb59f8fed94",
@@ -157,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntroductoryNotes/notes/DraftThoughts.md",
+                "file": "ContextModelling/InitialConcepts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IntroductoryNotes/notes/DraftThoughts.md",
+                "file": "ContextModelling/InitialConcepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IntroductoryNotes/notes/DraftThoughts.md"
+                "file": "ContextModelling/InitialConcepts.md"
               }
             }
           }
@@ -219,17 +256,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "723fd4777dbe8ad0",
+  "active": "98c4b0c253c4aef8",
   "lastOpenFiles": [
-    "IntroductoryNotes/notes/InterestingTechNotes.md",
-    "IntroductoryNotes/notes/DraftThoughts.md",
-    "README.md",
-    "IntroductoryNotes/LanguageModels/LargeLanguageModels/Other.md",
-    "IntroductoryNotes/FunctionalDesigns/OpenCV.md",
-    "IntroductoryNotes/FunctionalDesigns/Platform/spatiotemporal.md",
-    "IntroductoryNotes/FunctionalDesigns/Platform/MultiMediaQueries.md",
-    "IntroductoryNotes/FunctionalDesigns/MediaProcessing.md",
-    "IntroductoryNotes/FunctionalDesigns/decentralisation.md",
-    "WebScience/PeaceInfrastructureProject.md"
+    "ContextModelling.md",
+    "Requirements.md",
+    "sense-tech/Ontologies/DublinCore.md",
+    "FunctionalDesigns/Temporal.md",
+    "FunctionalDesigns/ODP.md",
+    "FunctionalDesigns/GIS.md",
+    "VocabularyModelling/LanguageModels.md",
+    "IntroductoryNotes/notes/StreamingAiPackages.md",
+    "FunctionalDesigns/OpenCV/OCR.md",
+    "FunctionalDesigns/MediaProcessing.md"
   ]
 }
