@@ -21,7 +21,9 @@ Some legacy information provides an overview both in the contained docs as well 
 6.  There needs to be a way to require multiple signatures for documents that have that requirement (ie: a vote in parliament).
 7.  There needs to be a way to run an agent, that is able to process requests from various protocols.
 8.  The unique identifier for a content asset that is the same as other copies of that artifact stored on other and/or across multiple protocols must be the same.  
-   *The client shouldn't really care which protocol it gets a specified record from, so long as the specified record has the same data. *
+   
+   *The client shouldn't really care which protocol it gets a specified record from, so long as the specified record has the same data.*
+   
 9.  If a content artifact is different then it must have a different identifier.
 10. If a content record relates to a series, then it should have a reference to the previous version and/or an index that provides information about all records in that series.
     

@@ -12,7 +12,7 @@ The objective is to seek to ensure that when a natural agent (person) is engaged
 
 Generally speaking;
 
-1. [[IntroductoryNotes]] - provides basic introductory information that relates to the sense project.   This is the starting-point for the work on sense.  
+1. [[Notes]] - provides basic introductory information that relates to the sense project.   This is the starting-point for the work on sense.  
 2. [[PCT-Webizen-Notes]] is a bunch of old docs, many of which are likely to be outdated or subsequently updated via the [Webizen DevDocs](https://devdocs.webizen.org/) - but some of that content may end-up being reused as useful notes about the structure of how to produce these sense systems.
 3. [[WebScience]] is intended to be a folder where the philosphical 'web science' stuff goes, that isn't actually about implementation specifically; rather, about various tech-social factors.
 

@@ -73,7 +73,6 @@ For example, in neural network models, the weights of the model can be split acr
 
 In RNNs and other sequence models, data can be split into smaller sequences and trained on separate nodes, with the final model being the average of the local models. However, this approach can lead to decreased accuracy in some cases, as the context information between the shards may be lost. To address this, more advanced sharding strategies, such as layer-wise or weight-wise sharding, can be used to balance the trade-off between accuracy and computational efficiency.
 
-
 DataTypes considerations..
 
 Geospatial Co-ordinates and/or shapes (ie: areas)

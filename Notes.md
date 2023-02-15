@@ -1,4 +1,4 @@
-# Introductory Notes
+# Notes
 
 This folder is intended to contain some initial notes to get a bearing on the objective purpose, requirements, functionality, etc. 
 

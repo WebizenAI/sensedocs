@@ -22,4 +22,5 @@ Therein; with respect to both cases, more study is required; but with respect to
 One of the many gateways into this field of knowledge; is considered to be Heraldry.
 
 
-
+Folder of Resources:
+https://drive.google.com/drive/folders/1BT4R0hD2CDFydMhqkZpHE35AyfY43shn
