@@ -1,6 +1,6 @@
 # Social Attack Vectors
 
-The content for defining different types of social attack vectors; or in otherwords, behaviours that are employed by person(s) in a manner that disaffect other person(s); whether willingly and/or otherwise.  In-turn the point of this index, is to provide the underlying references required to inform how [[SafetyProtocols]] and other ecosystem requirements need to address those sorts of problems, in a manner that supports the goals of; and as is related to, the [[PCT-Webizen-Notes/PeaceInfrastructureProject]].
+The content for defining different types of social attack vectors; or in otherwords, behaviours that are employed by person(s) in a manner that disaffect other person(s); whether willingly and/or otherwise.  In-turn the point of this index, is to provide the underlying references required to inform how [[SafetyProtocols]] and other ecosystem requirements need to address those sorts of problems, in a manner that supports the goals of; and as is related to, the [[Notes/RelatedProjects/PCT-Webizen-Notes/PeaceInfrastructureProject]].
 
 **Topics include; but are not limited to,** 
 Torts, Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs, Financial Crimes, Corproate Crimes, Attacks Online, Fraud, Social Engineering, etc.
@@ -49,7 +49,7 @@ There is an enormous amount of work to be done in relation to this area, and it 
 
 > *These sorts of considerations in-turn feed into the ecosystems design paradigms that are embedded into the body of works and the method of assembly relating to the ecosystems tooling, etc.*
 
-> *When considering the intended purpose of constituencies such as [[TheWebizenCharter]], the [[CommunityOfPractice]] and other [[WebizenAlliance]] [[Commercial Models]] that as stated - seek to support the growth of the far broader [[PCT-Webizen-Notes/PeaceInfrastructureProject]] , Old concepts, whether they be embedded in the systems of faith that people have in all parts of the world; or via old codes of conduct as noted earlier; and indeed also, old terms such as The term Worshipful;*
+> *When considering the intended purpose of constituencies such as [[TheWebizenCharter]], the [[CommunityOfPractice]] and other [[WebizenAlliance]] [[Commercial Models]] that as stated - seek to support the growth of the far broader [[Notes/RelatedProjects/PCT-Webizen-Notes/PeaceInfrastructureProject]] , Old concepts, whether they be embedded in the systems of faith that people have in all parts of the world; or via old codes of conduct as noted earlier; and indeed also, old terms such as The term Worshipful;*
   
   *(a) Honorable, virtuous, of noble character, estimable; highly respectable, decent; of a knight: excelling in knightly virtues, courageous, courteous, of great prowess; maken ~, to honor (sb.); 
  (b) deserving of honor or respect, praiseworthy; also, ?deserving of special treatment, singular [quot. a1500(c1477)]; 

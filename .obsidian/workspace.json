@@ -13,115 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/draftnotes/DraftThoughts.md",
+                "file": "VocabularyModelling/Neologism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fe585520ff11212",
+            "id": "ff049805c8c7bfd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyModelling/LanguageModels.md",
+                "file": "FunctionalDesigns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef76c54a2380f2e7",
+            "id": "f6684e3203d341bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FunctionalDesigns/ContextModelling.md",
+                "file": "WebScience/KnowledgeModelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98c4b0c253c4aef8",
+            "id": "b6f8cf4816b7261a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/draftnotes/DraftThoughts.md",
+                "file": "WebScience.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "413f2f740fc9ff75",
+            "id": "a97a5213de45861f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LanguageModels.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "434f03186e2b083d",
+            "id": "d45f5ccc7512d414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LanguageModels/StemLanguageModels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0803ed34fd68dc5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunctionalDesigns/OpenCV/OCR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5a5c02bcc5ddec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunctionalDesigns/MediaProcessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "358c5e6cb20dd41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunctionalDesigns/Platform/MultiMediaQueries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7038212a80f4919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FunctionalDesigns/Platform/spatiotemporal.md",
+                "file": "FunctionalDesigns.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LanguageModels/LargeLanguageModels/Other.md",
+                "file": "VocabularyModelling/LanguageModels/LargeLanguageModels/Other.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/draftnotes/DraftThoughts.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/draftnotes/DraftThoughts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/draftnotes/DraftThoughts.md"
+                "file": "README.md"
               }
             }
           }
@@ -268,17 +220,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "98c4b0c253c4aef8",
+  "active": "a97a5213de45861f",
   "lastOpenFiles": [
-    "Notes/draftnotes/StreamingAiPackages.md",
-    "Notes/draftnotes/InterestingTechNotes.md",
-    "LanguageModels/StemLanguageModels.md",
-    "LanguageModels/OntologyAppDev.md",
-    "LanguageModels/GeneralSummary.md",
-    "LanguageModels/StemLanguageModels/AncientGreek.md",
-    "LanguageModels.md",
-    "Notes/draftnotes/DraftThoughts.md",
-    "FunctionalDesigns/PCT-Webizen-Notes.md",
-    "Notes.md"
+    "Notes.md",
+    "README.md",
+    "WebScience.md",
+    "FunctionalDesigns.md",
+    "Notes/RelatedProjects.md",
+    "VocabularyModelling/lexicon.md",
+    "Notes/Requirements.md",
+    "Notes/RelatedProjects/PCT-Webizen-Notes/PCT-EnglishLanguageModelling.md",
+    "Notes/RelatedProjects/HumanCentricAI/SocialOntology/BestEfforts.md",
+    "Notes/RelatedProjects/HumanCentricAI/SocialOntology/FitForPurpose.md"
   ]
 }

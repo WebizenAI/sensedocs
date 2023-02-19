@@ -142,3 +142,6 @@ NOTE:  write a call to action to seek AI specialists to write about the importan
 
 Also note: need to define - What is Human Centric AI? 
 
+aspects of language, etc.
+
+Metaphysics
