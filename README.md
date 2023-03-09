@@ -22,7 +22,6 @@ It is required to support the production of 'AI' systems that are able to be abl
 - Ai Assistants
 - API Generation 
 
-
 ### Introductory notes
 
 As the work develops so does the scope..  Therein; whilst actively doing some work to ensure that i was opening up to the world in seeking cooperative and collaborative co-development, I was not assuming so many, whose language (as is bound to culture and being) is other than english, would be so interested, so early on.  As such, whilst my initial plan was to focus on english (noting - there's not simply 'one english', it is quite diverse); it appears, the plan may well grow more rapidly than previously planned, and whilst i have always sought to ensure growth, scalability - or functionally - support for human dignity; it appears that as there may be more interest than was assumed earlier; as such, the scope will adjust to support the sociology linked with those involved; as to be attentive. 

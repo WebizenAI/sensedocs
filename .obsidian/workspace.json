@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "723fd4777dbe8ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VocabularyModelling/Neologism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff049805c8c7bfd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FunctionalDesigns.md",
+                "file": "HistoryOfEnglish.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,24 +32,168 @@
             }
           },
           {
-            "id": "b6f8cf4816b7261a",
+            "id": "a97a5213de45861f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebScience.md",
+                "file": "Notes/RelatedProjects/HumanCentricAI/SocialOntology/LearningModals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a97a5213de45861f",
+            "id": "a0ee5d7735daead2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/LanguagesOfPrayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1d05aed484b29b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/DatabaseDesigns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08e6014de4ff34e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VocabularyModelling/Meaning/dialects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9739644cccb9e14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e09f6e8f3f4e509a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cc856c25769ac74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/SpaceTimeAppRequirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda2a1cf440b56f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/Tooling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b17aba908fe4bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0020b6bb15c1f45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/Schema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deb15597da72083b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b12a25f3045e5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ca82674b3a7ce35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/IngestMethods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8654f157520817d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -121,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The Artificial mind",
+                "query": "holborn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +330,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,17 +351,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a97a5213de45861f",
+  "active": "8654f157520817d8",
   "lastOpenFiles": [
-    "Notes.md",
-    "README.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/IngestMethods.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/DataSources.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/Schema.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/BrowserFunctionality.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/Tooling.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+    "FunctionalDesigns/SpatioTemporal.md",
+    "FunctionalDesigns/DatabaseDesigns.md",
     "WebScience.md",
-    "FunctionalDesigns.md",
+    "Notes/LanguagesOfPrayer.md",
+    "Notes/links.md",
     "Notes/RelatedProjects.md",
-    "VocabularyModelling/lexicon.md",
     "Notes/Requirements.md",
-    "Notes/RelatedProjects/PCT-Webizen-Notes/PCT-EnglishLanguageModelling.md",
-    "Notes/RelatedProjects/HumanCentricAI/SocialOntology/BestEfforts.md",
-    "Notes/RelatedProjects/HumanCentricAI/SocialOntology/FitForPurpose.md"
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/SpaceTimeAppRequirements.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES",
+    "FunctionalDesigns/SpatioTemporal",
+    "VocabularyModelling/LanguageModels/LargeLanguageModels/WordNet.md",
+    "Notes/RelatedProjects/EconomicSystems/WorkProject.md",
+    "VocabularyModelling/Meaning/dialects.md",
+    "Notes/RelatedProjects/HumanCentricAI/SocialOntology/LearningModals.md",
+    "Notes/holborn/AChatGPTExperimentHolborn.md",
+    "Notes/holborn.md",
+    "FunctionalDesigns/GIS.md",
+    "HistoryOfEnglish.md"
   ]
 }

@@ -11,3 +11,10 @@ https://github.com/opengeospatial/ogc-geosparql/
 
 https://opengeospatial.github.io/ogc-geosparql/geosparql11/spec.html
 
+https://web.engr.oregonstate.edu/~erwig/st/
+
+https://github.com/sacridini/Awesome-Geospatial
+https://github.com/gisvlasta/Awesome-Geospatial-1
+https://github.com/sshuair/awesome-gis
+
+https://github.com/cornell-colab/Geospatial-Overview
