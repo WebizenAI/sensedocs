@@ -44,5 +44,10 @@ https://www.google.com/search?q=github+chrome+extension+scraper
 4. https://freme-project.github.io/api-doc/full.html
 5. https://github.com/freme-project
 
+https://github.com/opensemanticsearch/open-semantic-etl
+
 
 Get Header information: particularly date information
+
+should look for ogp and schemaorg tags
+
