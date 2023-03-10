@@ -28,6 +28,10 @@ Draft Part 1: Medical Reports
 Draft Part 2: Medical Videos
 [https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nLy6avsAgW0UBIo45LFuj-nuswQdlBL91BSIU4V5ifw&font=Default&lang=en&hash_bookmark=true&initial_zoom=8&height=750#event-the-corona-files-2020](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nLy6avsAgW0UBIo45LFuj-nuswQdlBL91BSIU4V5ifw&font=Default&lang=en&hash_bookmark=true&initial_zoom=8&height=750#event-the-corona-files-2020)
 
-These are only 2 parts of many.  What also needs to be added, is the informaiton about the social events and impacts around the world, which is likely to get complicated as there are so many regions effected; alongside the financial implications, the threats percieved of war, the political implications, the implications relating to rule of law, implications within the fields of the social impacts and events; such as the implications upon children and/or indeed also, medical professionals as specific groups.
+Consciousness Science Research: This is still a work in progress...
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1r-bo83ImIEjSCmOFFMcT7F79OnCHDOGdkC_g9bOVFZg&font=Default&lang=en&hash_bookmark=true&initial_zoom=4&height=650#event-consciousness-studies
+
+
+These are only 2(/3) parts of many.  What also needs to be added, is the informaiton about the social events and impacts around the world, which is likely to get complicated as there are so many regions effected; alongside the financial implications, the threats percieved of war, the political implications, the implications relating to rule of law, implications within the fields of the social impacts and events; such as the implications upon children and/or indeed also, medical professionals as specific groups.
 
 Through that also, is the development and commercialisation of Digital Identity world-wide through the lens of Vaccine Passports, etc.  
