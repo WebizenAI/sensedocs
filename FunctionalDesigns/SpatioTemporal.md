@@ -10,4 +10,4 @@ This is an example of an existing SpatioTemporal big datastore.
 
 This example is not considered to be either fit for purpose, nor decentralised.  However it does provide a great deal of insights about the GIS related functionality that is desirably supported. 
 
-The [[TheTimelinesProject]] provides some basic information about an existing method that can be used more broadly, however the purpose of the [[DIDSSICOVIDSONGLINES]] is to significantly advance the capabilities via this complex example; that is in-turn a radical simplification of what is otherwise more broadly required for the sense-project more broadly.
+The [[TheTimelinesProject]] provides some basic information about an existing method that can be used more broadly, however the purpose of the [[DIDSSICovidSonglines]] is to significantly advance the capabilities via this complex example; that is in-turn a radical simplification of what is otherwise more broadly required for the sense-project more broadly.

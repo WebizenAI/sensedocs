@@ -45,6 +45,7 @@ The timeline supports the means to add content from Google Drive, such as PDFs, 
 1.  [https://archive.org/](https://archive.org/) is incredibly useful, when trying to find old records. If a link you are referring to is a ‘live website’, it is recommended that you use Archive.org “Save Page Now” feature, that can be found by pressing the ‘web’ button, in the header menu. This helps to ensure that the reference that you’re making is linked to the statements that can be found on that web-page, as was the case at the time when you made the reference.
     
 2.  This tool is useful for downloading youtube playlists: [https://syncwith.com/youtube/export-youtube-playlist-to-csv](https://syncwith.com/youtube/export-youtube-playlist-to-csv) 
+	https://jolantahuba.github.io/YT-Backup/ (this one is better)
     
 3.  Always seek to ensure that whatever claim is being made, has electronic evidence of some sort, that you are able to reference. 
     

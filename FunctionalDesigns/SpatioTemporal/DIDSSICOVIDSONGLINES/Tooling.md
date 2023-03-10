@@ -46,7 +46,7 @@ There are a few different types of challenges relating to different types of med
 the results end-up with a requirement to produce a version of the 'hypermedia packages'.. This would include the means to store the original artifacts, alongside files for discovery and semantic notations; and representation of the content.  
 
 ## Issues & confusion
-The first point relating to 'issues' and indeed also, my 'confusion', is that this project relates to the HumanCentricAI works, the Webizen works, WebCivics works more broadly; as well as, consequentially, the peace infrastructure project and trust factory works.  Its a fairly instrumental piece of the puzzle to solve.   Yet, the means to address the 'sense' issue, is absolutely  enhanced through the development of these works; as the applied experiment / tests, upon [[DIDSSICOVIDSONGLINES]] use-case, is far simplier; than the languages of our human family, overtime, space, place, events, etc.  as needs to be provided a fabric of support, for use with Ai Agents, of which, i am particularly focused upon the Webizen works.
+The first point relating to 'issues' and indeed also, my 'confusion', is that this project relates to the HumanCentricAI works, the Webizen works, WebCivics works more broadly; as well as, consequentially, the peace infrastructure project and trust factory works.  Its a fairly instrumental piece of the puzzle to solve.   Yet, the means to address the 'sense' issue, is absolutely  enhanced through the development of these works; as the applied experiment / tests, upon [[DIDSSICovidSonglines]]se, is far simplier; than the languages of our human family, overtime, space, place, events, etc.  as needs to be provided a fabric of support, for use with Ai Agents, of which, i am particularly focused upon the Webizen works.
 
 Whilst being supportive on a best efforts basis, with others seeking implementations broadly.
 
@@ -54,5 +54,5 @@ Therein - the particular topic, is intended to support better comprehension of w
 
 I think the repo should be in Web Civics; and that, the matter of the destination of the documention be reserved, noting that the project is deemed important for the sense project.
 
-The docs will be added to [[TheTimelinesProject]] folder, and then associated with the the practice method insights associated with the [[DIDSSICOVIDSONGLINES]] POC insights.
+The docs will be added to [[TheTimelinesProject]] folder, and then associated with the the practice method insights associated with the [[DIDSS[[DIDSSICovidSonglines]]
 

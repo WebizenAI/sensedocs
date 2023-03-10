@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md"
+                "file": "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md"
               }
             }
           }
@@ -148,15 +148,20 @@
   },
   "active": "8654f157520817d8",
   "lastOpenFiles": [
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/SpaceTimeAppRequirements.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/Tooling.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines.md",
     "FunctionalDesigns/SpatioTemporal/TheTimelinesProject.md",
-    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/Schema.md",
-    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/IngestMethods.md",
     "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/import-tools.md",
     "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/DataSources.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/Schema.md",
+    "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/IngestMethods.md",
     "FunctionalDesigns/SpatioTemporal/TheTimelinesProject/BrowserFunctionality.md",
     "FunctionalDesigns/SpatioTemporal/TheTimelinesProject",
-    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/Tooling.md",
-    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines/Tooling.md",
     "FunctionalDesigns/SpatioTemporal.md",
     "FunctionalDesigns/DatabaseDesigns.md",
     "WebScience.md",
@@ -164,16 +169,14 @@
     "Notes/links.md",
     "Notes/RelatedProjects.md",
     "Notes/Requirements.md",
-    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES/SpaceTimeAppRequirements.md",
-    "FunctionalDesigns/SpatioTemporal/DIDSSICOVIDSONGLINES",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines/SpaceTimeAppRequirements.md",
+    "FunctionalDesigns/SpatioTemporal/DIDSSICovidSonglines",
     "FunctionalDesigns/SpatioTemporal",
     "VocabularyModelling/LanguageModels/LargeLanguageModels/WordNet.md",
     "Notes/RelatedProjects/EconomicSystems/WorkProject.md",
     "VocabularyModelling/Meaning/dialects.md",
     "Notes/RelatedProjects/HumanCentricAI/SocialOntology/LearningModals.md",
     "Notes/holborn/AChatGPTExperimentHolborn.md",
-    "Notes/holborn.md",
-    "FunctionalDesigns/GIS.md",
-    "HistoryOfEnglish.md"
+    "Notes/holborn.md"
   ]
 }
