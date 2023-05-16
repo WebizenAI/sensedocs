@@ -30,7 +30,7 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/WebizenAI/sense-docs",
+            url: "https://github.com/WebizenAI/sensedocs",
           },
           {
             title: "Twitter",
